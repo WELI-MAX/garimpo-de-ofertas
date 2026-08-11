@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://weli-max.github.io/garimpo-de-ofertas/sitemap.xml
